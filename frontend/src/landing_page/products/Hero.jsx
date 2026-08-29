@@ -1,10 +1,10 @@
 import React from 'react';
-import AboutPage from './AboutPage';
 
 function Hero() {
     return ( 
-        <h1>Hero</h1>
-    );
+        <h1>Hero </h1>
+        
+     );
 }
 
 export default Hero;
